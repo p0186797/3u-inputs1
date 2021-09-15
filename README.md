@@ -1,4 +1,4 @@
-# strings1
+# inputs1
 Write a program that reads a user’s first name and a last name, then outputs the name in the form: last name, first name.
 
 # Input Specification
